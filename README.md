@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently attending the project on [Chingu](https://www.chingu.io/).
 - 👀 I’m interested in Technology, Work Out, Trip to overseas.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning React.js(Originally a server-side engineer using Laravel).
 - 📩 How to reach me: kaz.sminoo@gmail.com
 - 😃 I am also Actively looking for a job/intership in Voucouver, Canada. My Specality includes Web Development.
 
