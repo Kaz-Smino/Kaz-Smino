@@ -1,4 +1,12 @@
-### Hi there. I'm Kaz 👋
+<h3 align="left">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="30"
+         width="30" />
+</h3>
+
+![terminal](https://github.com/Kaz-Smino/Kaz-Smino/assets/43696401/9ba9ecb1-956e-4f23-8321-fc100563e338)
 
 - 🔭 I’m currently attending the project on [Chingu](https://www.chingu.io/).
 - 👀 I’m interested in Technology, Work Out, Trip to overseas.
@@ -26,3 +34,5 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![alt text](path/to/svg "tooltip text")
