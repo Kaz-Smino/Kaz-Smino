@@ -8,7 +8,7 @@
 
 ![terminal](https://github.com/Kaz-Smino/Kaz-Smino/assets/43696401/9ba9ecb1-956e-4f23-8321-fc100563e338)
 
-- 🔭 I’m currently attending the project on [Chingu](https://www.chingu.io/).
+- 🔭 I’m currently attending the project on [YouLearnt](https://youlearnt.com/).
 - 👀 I’m interested in Technology, Work Out, Trip to overseas.
 - 🌱 I’m currently learning React.js(Originally a server-side engineer using Laravel).
 - 📩 How to reach me: kaz.sminoo@gmail.com
